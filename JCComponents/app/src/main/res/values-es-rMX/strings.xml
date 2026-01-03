@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_go">Ir</string>
+    <string name="action_exit">Salir</string>
+    <string name="btn_blue">Azul</string>
+    <string name="btn_buy">Comprar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_green">Verde</string>
+    <string name="btn_red">Rojo</string>
+    <string name="btn_skip">Saltar</string>
+    <string name="cb_enable_password">Habilitar contraseña</string>
+    <string name="error_invalid_url">URL Inválida</string>
+    <string name="dialog_title">Notificaciones</string>
+    <string name="dialog_message">Actividad de hoy:</string>
+    <string name="hint_image_url">URL de imagen</string>
+    <string name="hint_password">contraseña</string>
+    <string name="helper_text_required">Requerido</string>
+
+    <string name="large_description">El Viernes Negro es el viernes posterior al Día de Acción de Gracias en los Estados Unidos. Tradicionalmente marca el inicio de la temporada de compras navideñas y es el día de compras más concurrido del año en los Estados Unidos. Muchas tiendas ofrecen ventas muy promocionadas a precios muy rebajados y suelen abrir temprano, a veces tan temprano como la medianoche[2] o incluso el Día de Acción de Gracias. Las ventas de algunas tiendas continúan hasta el lunes (Cyber ​​Monday) o durante una semana (Cyber ​​Week). El Viernes Negro ha evolucionado en significado e impacto a lo largo de los años, inicialmente haciendo referencia a días calamitosos, con un ejemplo notable de los primeros días siendo el Viernes Negro (1869) en los EE. UU. Esta crisis financiera vio una caída dramática en los precios del oro, lo que afectó a los inversores. El término se utilizó más tarde en el comercio minorista estadounidense, comenzando de manera ambigua en la década de 1950. Inicialmente asociado con la ausencia de la fuerza laboral después del Día de Acción de Gracias, fue reinterpretado por la policía de Filadelfia para describir la congestión inducida por las compras. Los intentos de cambiar la marca a Big Friday fracasaron y el término Black Friday se consolidó en la década de 1980, haciendo referencia al punto crucial en el que los minoristas supuestamente pasaron de pérdidas (en números rojos) a ganancias (en números negros). Este día marca el inicio no oficial de la temporada de compras navideñas, con ventas promocionales que buscan atraer grandes multitudes. El Black Friday es el día de compras más activo del año en los Estados Unidos[3][4][5] y los minoristas lo priorizan junto con el Cyber ​​Monday como días de compras navideñas altamente rentables.</string>
+
+    <string name="message_success_event">Evento exitoso!</string>
+    <string name="message_buy">Comprado</string>
+    <string name="message_record">Historial</string>
+    <string name="message_bye">Hasta pronto</string>
+    <string name="sw_hide_fab">Ocultar Fab</string>
+    <string name="sw_show_fab">Mostrar Fab</string>
+</resources>
